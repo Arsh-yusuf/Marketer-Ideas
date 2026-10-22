@@ -15,6 +15,7 @@ coverage/
 .env.*
 !.env.example
 *.local
+.npmrc
 secrets/
 *.pem
 *.key
