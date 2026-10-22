@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FB923C" />
+      <stop offset="100%" stop-color="#EA580C" />
+    </linearGradient>
+  </defs>
+
+  <!-- Dark rounded squircle background matching brand -->
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="#0A0D14" />
+  <rect x="2" y="2" width="60" height="60" rx="16" stroke="#F97316" stroke-width="1.5" stroke-opacity="0.3" />
+
+  <!-- 3 Performance Growth Bars -->
+  <rect x="14" y="38" width="6.5" height="15" rx="2" fill="#F97316" fill-opacity="0.55" />
+  <rect x="25" y="28" width="6.5" height="25" rx="2" fill="#F97316" fill-opacity="0.85" />
+  <rect x="36" y="17" width="6.5" height="36" rx="2" fill="url(#barGrad)" />
+
+  <!-- Dynamic Upward Growth Arrow -->
+  <path d="M17 36L28 27L39 16L49 11" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M40 11H49V20" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="49" cy="11" r="2.5" fill="#FB923C" />
+</svg>
