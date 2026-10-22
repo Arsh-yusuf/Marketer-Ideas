@@ -22,7 +22,7 @@
 
 Designed with a modern aesthetic, responsive typography, and fast loading performance, the platform delivers an engaging experience across desktop, tablet, and mobile devices.
 
-Official Agency Domain: [marketerideas.online](https://marketerideas.online)
+Official Agency Domain: [marketerideas.online](https://marketer-ideas-9gzs.vercel.app)
 
 ---
 
@@ -134,7 +134,7 @@ marketer-ideas/
 
 ## 🌐 Official Channels & Contact
 
-- **Website**: [marketerideas.online](https://marketerideas.online)
+- **Website**: [marketerideas.online](https://marketer-ideas-9gzs.vercel.app)
 - **Email**: [hello@marketerideas.online](mailto:hello@marketerideas.online)
 - **GitHub**: [Arsh-yusuf/Marketer-Ideas](https://github.com/Arsh-yusuf/Marketer-Ideas)
 
